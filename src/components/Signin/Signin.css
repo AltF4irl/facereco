@@ -1,0 +1,89 @@
+p:hover {
+    cursor: pointer;
+    color: grey;
+}
+
+
+
+.ff {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+}
+
+.signinform {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    width: 600px;
+    background-color: black;
+    border: 1px solid #ced4da;
+    padding: 17px 17px 10px 17px;
+}
+
+.form-group {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all .3s;
+}
+
+.form-control {
+    height: 60px;
+    font-size: 1em;
+    background-color: black;
+    border: 1px solid #ced4da;
+    font-weight: 400;
+    color: #d5d3d3;
+    width: 100%;
+    box-shadow: none;
+    border-radius: 0;
+    transition: all 0.3s;
+    padding: 20px 10px 3px 10px;
+}
+
+
+.form-control::placeholder {
+    color: transparent;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    outline: 3px solid rgba(230, 0, 122, 0.5);
+}
+
+.form-control:focus + .form-label,
+.form-control:not(:placeholder-shown) + .form-label {
+    transform: translateY(-3.2em) scale(0.9);
+    color: grey;
+}
+
+
+.form-label {
+    margin-left: 10px;
+    display: block;
+    font-weight: 700;
+    text-align: left;
+    opacity: 1;
+    transform: translateY(-2.5em);
+    transform-origin: 0 0;
+    transition: all .3s;
+    pointer-events: none;
+}
+
+.sub {
+    border: 1px solid #e6007a !important;
+    background-color: #e6007a !important;
+    color: black !important;
+    font-size: 1.2rem !important;
+    height: 60px !important;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.sub:hover {
+    background-color: black !important;
+    cursor: pointer;
+    color: #e6007a !important;
+}

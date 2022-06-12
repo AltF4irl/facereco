@@ -1,0 +1,33 @@
+.url {
+    background-color: #000;
+    border-color: #e6007a;
+    height: 40px;
+    padding-left: 15px;
+    color: #d5d3d3;
+}
+
+.submit {
+    height: 40px;
+    background-color: #e6007a;
+    border: 1px solid #e6007a;
+    padding: 0px 17px;
+}
+
+.submit:hover {
+    background-color: #000;
+    color: #e6007a;
+    cursor: pointer;
+}
+
+.mform {
+    margin-top: 5%;
+}
+
+.form {
+    margin-top: 15px;
+    /* margin-bottom: 500px; */
+}
+
+p {
+    color: #d5d3d3;
+}
