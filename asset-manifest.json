@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/facereco/static/css/main.6a60a835.chunk.css",
+    "main.js": "/facereco/static/js/main.be7c8405.chunk.js",
+    "main.js.map": "/facereco/static/js/main.be7c8405.chunk.js.map",
+    "runtime-main.js": "/facereco/static/js/runtime-main.77b6e56a.js",
+    "runtime-main.js.map": "/facereco/static/js/runtime-main.77b6e56a.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/facereco/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c7b1dbe9.chunk.js": "/facereco/static/js/2.c7b1dbe9.chunk.js",
+    "static/js/2.c7b1dbe9.chunk.js.map": "/facereco/static/js/2.c7b1dbe9.chunk.js.map",
+    "static/js/3.c8499349.chunk.js": "/facereco/static/js/3.c8499349.chunk.js",
+    "static/js/3.c8499349.chunk.js.map": "/facereco/static/js/3.c8499349.chunk.js.map",
+    "static/js/4.7163f0a5.chunk.js": "/facereco/static/js/4.7163f0a5.chunk.js",
+    "static/js/4.7163f0a5.chunk.js.map": "/facereco/static/js/4.7163f0a5.chunk.js.map",
+    "index.html": "/facereco/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/facereco/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.6a60a835.chunk.css.map": "/facereco/static/css/main.6a60a835.chunk.css.map",
+    "static/js/2.c7b1dbe9.chunk.js.LICENSE.txt": "/facereco/static/js/2.c7b1dbe9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77b6e56a.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c7b1dbe9.chunk.js",
+    "static/css/main.6a60a835.chunk.css",
+    "static/js/main.be7c8405.chunk.js"
+  ]
+}
